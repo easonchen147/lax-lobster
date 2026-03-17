@@ -1,0 +1,12 @@
+{
+  "stages": [
+    { "id": 0, "name": "普通龙虾", "unlockScore": 0, "speedBonus": 0, "shieldCount": 0, "freeRevives": 0, "color": 9109504, "collisionScale": 1, "displayScale": 1 },
+    { "id": 1, "name": "锐爪龙虾", "unlockScore": 300, "speedBonus": 0.08, "shieldCount": 0, "freeRevives": 0, "color": 2196223, "collisionScale": 1, "displayScale": 1.04 },
+    { "id": 2, "name": "坚甲龙虾", "unlockScore": 900, "speedBonus": 0.08, "shieldCount": 0, "freeRevives": 0, "color": 5070383, "collisionScale": 0.85, "displayScale": 1.08 },
+    { "id": 3, "name": "沧澜霸主龙虾", "unlockScore": 2100, "speedBonus": 0.15, "shieldCount": 1, "freeRevives": 0, "color": 38912, "collisionScale": 0.85, "displayScale": 1.12 },
+    { "id": 4, "name": "深渊海神龙虾", "unlockScore": 3900, "speedBonus": 0.22, "shieldCount": 1, "freeRevives": 1, "color": 8071833, "collisionScale": 0.85, "displayScale": 1.16 },
+    { "id": 5, "name": "幻海帝皇龙虾", "unlockScore": 6300, "speedBonus": 0.22, "shieldCount": 2, "freeRevives": 1, "color": 16766720, "collisionScale": 0.85, "displayScale": 1.2 },
+    { "id": 6, "name": "星海穹极龙虾", "unlockScore": 9300, "speedBonus": 0.22, "shieldCount": 2, "freeRevives": 2, "color": 6711039, "collisionScale": 0.85, "displayScale": 1.24 },
+    { "id": 7, "name": "混沌太古龙神龙虾", "unlockScore": 12900, "speedBonus": 0.22, "shieldCount": 3, "freeRevives": 2, "color": 16737792, "collisionScale": 0.85, "displayScale": 1.28 }
+  ]
+}

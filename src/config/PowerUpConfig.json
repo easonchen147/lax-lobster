@@ -1,0 +1,46 @@
+{
+  "types": [
+    {
+      "key": "shieldBubble",
+      "label": "护盾泡泡",
+      "rarity": "normal",
+      "color": 49151,
+      "durationMs": 0,
+      "cooldownDistance": 0,
+      "probabilityByScore": [
+        { "minScore": 0, "chance": 0.13 },
+        { "minScore": 231, "chance": 0.1 },
+        { "minScore": 551, "chance": 0.065 },
+        { "minScore": 1050, "chance": 0.04 }
+      ]
+    },
+    {
+      "key": "slowCurrent",
+      "label": "减速洋流",
+      "rarity": "normal",
+      "color": 31999,
+      "durationMs": 3500,
+      "cooldownDistance": 0,
+      "probabilityByScore": [
+        { "minScore": 0, "chance": 0.13 },
+        { "minScore": 231, "chance": 0.1 },
+        { "minScore": 551, "chance": 0.065 },
+        { "minScore": 1050, "chance": 0.04 }
+      ]
+    },
+    {
+      "key": "revivePearl",
+      "label": "回溯珍珠",
+      "rarity": "rare",
+      "color": 16762368,
+      "durationMs": 0,
+      "cooldownDistance": 1350,
+      "probabilityByScore": [
+        { "minScore": 0, "chance": 0 },
+        { "minScore": 231, "chance": 0.022 },
+        { "minScore": 551, "chance": 0.042 },
+        { "minScore": 1050, "chance": 0.05 }
+      ]
+    }
+  ]
+}

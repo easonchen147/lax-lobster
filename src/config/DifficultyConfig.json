@@ -1,0 +1,8 @@
+{
+  "stages": [
+    { "minScore": 0, "scrollSpeed": 5.2, "gapSize": 120, "obstacleSpacing": 200, "predatorChance": 0, "maxPredatorsOnScreen": 0 },
+    { "minScore": 130, "scrollSpeed": 5.38, "gapSize": 115, "obstacleSpacing": 190, "predatorChance": 0, "maxPredatorsOnScreen": 0 },
+    { "minScore": 260, "scrollSpeed": 5.57, "gapSize": 110, "obstacleSpacing": 180, "predatorChance": 0.07, "maxPredatorsOnScreen": 1 },
+    { "minScore": 380, "scrollSpeed": 5.76, "gapSize": 106, "obstacleSpacing": 172, "predatorChance": 0.15, "maxPredatorsOnScreen": 1 }
+  ]
+}

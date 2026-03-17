@@ -1,0 +1,31 @@
+{
+  "name": "lax-lobster",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "typecheck": "tsc --noEmit",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest",
+    "test:run": "vitest run",
+    "lint": "eslint . --ext .ts",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "phaser": "^3.80.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.17",
+    "@typescript-eslint/eslint-plugin": "^6.21.0",
+    "@typescript-eslint/parser": "^6.21.0",
+    "eslint": "^8.57.1",
+    "jsdom": "^28.1.0",
+    "prettier": "^3.6.2",
+    "typescript": "^5.9.2",
+    "vite": "^5.4.20",
+    "vitest": "^1.6.1",
+    "phaser3spectorjs": "file:tests/mocks/phaser3spectorjs-package"
+  }
+}

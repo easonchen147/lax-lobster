@@ -1,0 +1,7 @@
+{
+  "types": [
+    { "key": "coral", "color": 16737095, "minWidth": 56, "maxWidth": 94, "minHeight": 120, "maxHeight": 280, "weight": 0.42 },
+    { "key": "seaweed", "color": 5025616, "minWidth": 46, "maxWidth": 82, "minHeight": 100, "maxHeight": 240, "weight": 0.33 },
+    { "key": "shipwreck", "color": 9250310, "minWidth": 90, "maxWidth": 148, "minHeight": 100, "maxHeight": 220, "weight": 0.25 }
+  ]
+}
